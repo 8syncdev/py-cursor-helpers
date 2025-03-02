@@ -1,7 +1,6 @@
 # Py Cursor Tools - Generate Machine, Mac, Device, SQM ID
 
-[Video hướng dẫn sử dụng công Py Cursor Tools](https://www.youtube.com/watch?v=kzQ7d9BKm_g)
-
+[Video hướng dẫn sử dụng và giải thích khái niệm quan trọng của công cụ Py Cursor Tools](https://www.youtube.com/watch?v=kzQ7d9BKm_g)
 
 
 ## Giới thiệu
