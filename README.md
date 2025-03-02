@@ -2,19 +2,7 @@
 
 [Video hướng dẫn sử dụng công Py Cursor Tools](https://www.youtube.com/watch?v=kzQ7d9BKm_g)
 
-**Youtube:** [Dev8Sync](https://www.youtube.com/@Dev8Sync/featured)
 
-**Facebook:** [8sync](https://www.facebook.com/8sync)
-
-**Tiktok:** [@_8_sync_](https://www.tiktok.com/@_8_sync_)
-
-**Zalo:** [0703930513](https://zalo.me/0703930513)
-
-**Zalo Group:** [mitxdi486](https://zalo.me/g/mitxdi486)
-
-**Email:** 8sync.dev.1111@gmail.com
-
-**Website:** [syncdev8.com](https://syncdev8.com/)
 
 ## Giới thiệu
 
@@ -79,10 +67,19 @@ src/
 - Cursor đã được cài đặt
 - Quyền quản trị viên/root để thực hiện thay đổi
 
+**Youtube:** [Dev8Sync](https://www.youtube.com/@Dev8Sync/featured)
 
+**Facebook:** [8sync](https://www.facebook.com/8sync)
 
+**Tiktok:** [@_8_sync_](https://www.tiktok.com/@_8_sync_)
 
+**Zalo:** [0703930513](https://zalo.me/0703930513)
 
+**Zalo Group:** [mitxdi486](https://zalo.me/g/mitxdi486)
+
+**Email:** 8sync.dev.1111@gmail.com
+
+**Website:** [syncdev8.com](https://syncdev8.com/)
 
 # Phân tích mã nguồn
 
