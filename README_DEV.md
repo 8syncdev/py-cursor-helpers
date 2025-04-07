@@ -25,7 +25,7 @@
 
 ## 📚 Hướng Dẫn Nhanh
 
-> Dùng Geek Uninstaller gỡ Cursor trước khi sử dụng công cụ -> Cài liệu Cursor từ trang chủ 0.47.x -> Đăng Nhập lại tài khoản -> Chạy công cụ reset -> Khởi động lại Cursor
+> Dùng Geek Uninstaller gỡ Cursor trước khi sử dụng công cụ -> Cài liệu Cursor từ trang chủ 0.47.x -> Đăng Nhập lại tài khoản -> Chạy công cụ reset trong thư mục dist -> Khởi động lại Cursor
 
 ___[Nên xem video hướng dẫn chi tiết tại đây](#-video-hướng-dẫn-chi-tiết)___
 
